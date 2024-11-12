@@ -6,7 +6,7 @@
 
 **Stats:**
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=Anirudh-Pranesh&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)</br>
+![My github stats](https://github-readme-stats.vercel.app/api?username=Anirudh-Pranesh&theme=blue-green\&rank_icon=github)</br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anirudh-Pranesh&layout=compact&theme=blue-green)</br>
 
