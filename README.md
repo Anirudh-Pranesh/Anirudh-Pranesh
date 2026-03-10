@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Anirudh-Pranesh
-- 👀 I’m interested in arduino and python
+- 👀 I’m interested in robotics and embedded systems
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python projects
+- 💞️ I’m looking to collaborate on AI/ML and robotics projects
 - 📫 How to reach me anirudhpranesh@gmail.com
 
 **Stats:**
