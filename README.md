@@ -6,6 +6,7 @@
 
 **Stats:**
 
+[![Anirudhs's WakaTime stats](https://github-stats-extended.vercel.app/api/wakatime?username=fd13e4f4-e405-4c80-87a0-d775d9c75560&show_icons=true&theme=gruvbox)](https://wakatime.com/@fd13e4f4-e405-4c80-87a0-d775d9c75560)
 
 <!---
 Anirudh-Pranesh/Anirudh-Pranesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
