@@ -6,9 +6,8 @@
 
 **Stats:**
 
-[![My github stats](https://github-readme-stats-extended.vercel.app/api?username=Anirudh-Pranesh&theme=blue-green\&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)</br>
-
-[![Top Langs](https://github-readme-stats-extended.vercel.app/api/top-langs/?username=Anirudh-Pranesh&layout=donut&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)</br>
+</br>
+[![Anirudhs's WakaTime stats](https://github-stats-extended.vercel.app/api/wakatime?username=fd13e4f4-e405-4c80-87a0-d775d9c75560)](https://wakatime.com/@fd13e4f4-e405-4c80-87a0-d775d9c75560)</br>
 
 <!---
 Anirudh-Pranesh/Anirudh-Pranesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
